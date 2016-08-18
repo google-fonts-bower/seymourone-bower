@@ -1,0 +1,17 @@
+{
+    "name": "seymourone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/seymourone-bower.git"
+    },
+    "description": "Seymour One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
